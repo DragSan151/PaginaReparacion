@@ -1,0 +1,62 @@
+.container {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.container:hover {
+    background-color: #c1bfbf;
+    color: #fff;
+}
+
+.botonWhat {
+    background-image: url('whatsapp.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.botonWhat:hover {
+    background-color: #3e8e41;
+}
+
+.botonIG {
+    background-image: url('instagram-icone.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.botonIG:hover {
+    background-color: #000000;
+}
+
+.botonFace {
+    background-image: url('Facebook.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.botonFace:hover {
+    background-color: #4b9bd0;
+}
+
+
+
